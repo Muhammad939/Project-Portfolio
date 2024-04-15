@@ -38,7 +38,7 @@ p {
 footer {
     background-color: #ffb300;
     color: #fff;
-    padding: 20px 0;
+    padding: 20px 0 9px;
     text-align: center;
     position: fixed;
     bottom: 0;
@@ -95,3 +95,10 @@ color: #777;
 color: #000;
 cursor: pointer;
 }
+
+.anchor1 {
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
